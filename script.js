@@ -17,5 +17,5 @@ var coordenadas = () => {
 }
 
 btnyes.addEventListener('click', () => {
-    alert('Sabia yo que me querias dar el chiquito');
+    alert('Sabia yo que me querias ser mi novia ❤️');
 });
